@@ -14,6 +14,13 @@ _See the readme file in the main branch for updated instructions and information
 	- Jupyter Notebook environment in the cloud or locally, with the necessary libraries installed
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
 
+## Instructor
+
+Kesha Williams
+
+Award-Winning Tech Innovator and AI/ML Leader                 
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/kesha-williams?u=104).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
